@@ -1,5 +1,6 @@
-#Current goals: complete phase 1
-#phase 1:
+# Current goals: 
+complete phase 1
+# phase 1:
 (1) create a program to extract reasonable number of webpages from direct website of a company, read and store them as structured data.
 (2) create a program to extract information from facebook, twitter and instagram about a certain company, and meaningfully read and store the data.
 
