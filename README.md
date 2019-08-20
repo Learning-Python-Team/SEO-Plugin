@@ -1,17 +1,21 @@
 # Current goals: 
 complete phase 1
+
+
 # phase 1:
-(1) create a program to extract reasonable number of webpages from direct website of a company, read and store them as structured data.
-(2) create a program to extract information from facebook, twitter and instagram about a certain company, and meaningfully read and store the data.
+(1) create a program to search for a company's name, industry, or keywords and count the instances of the company's name.
+
+This number is the company's BASIC "ranking".
+
+We will have to add additional parameters to scale down how much data is parsed.
+
+(2) Search a few notable companies and store their rankings
 
 # phase 2:
-(1) create a model to estimate the incoming traffic through different social medias, ad campaigns and direct organic search. This will be a type of click through rate model i.e. CTR model.
-(2) create a model to approximate the sensitive page rank system by google. This will be a page rank model to predict the ranking of user pages. Try to include google analytics result and other platform analytics result in this one for mocking search results.
+(1) GUI to compare company's online presence
 
-
-
-
-
+# phase 3:
+1) Create plug-in that will overwrite existing for the purposes of staying up to date with prevailing algorithms.
 
 
 
